@@ -6,4 +6,4 @@ tools.
 
 ## Currently It Contains
 
-- StarBall (written in Mathematica)
+- Starfish Ball (written in Mathematica)
